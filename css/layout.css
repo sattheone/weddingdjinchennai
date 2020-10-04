@@ -414,16 +414,16 @@ fieldset[disabled] .btn-theme {
 
 /* Navbar Logo */
 .header .navbar-logo {
-  width: 100px;
-  height: 100px;
-  float: left;
-  max-height: 95px;
-  line-height: 65px;
+    width: 350px;
+    height: 100px;
+    float: left;
+    max-height: 95px;
+    line-height: 65px;
 }
 
 .header .navbar-logo-wrap {
-  display: inline-block;
-  padding: 15px 0;
+display: inline-block;
+    padding: 32px 0;
 }
 
 .header .navbar-logo-wrap:focus, .header .navbar-logo-wrap:hover {
